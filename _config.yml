@@ -1,0 +1,17 @@
+title: Kartik Hegde # your name (or website title) here
+logo: "/imgs/Kartik_pic_crop.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Master's student <br> (Computer Vision)
+  <br><br>
+  <a href="https://www.linkedin.com/in/kartik-hegde-382701145/"><b><small>LinkedIn</small></b></a>
+  <br>
+  <a href="https://scholar.google.com/citations?hl=en&user=xOHBNuEAAAAJ"><b><small>Google-Scholar</small></b></a>
+  <br>
+  <a href="mailto:kartikhegde0611@gmail.com"><b><small>E-Mail</small></b></a>
+  <br>
+
+# <a href="https://maitreyasuin.github.io/pages/pubs"><big><u><b>Publications</b></u></big></a>
+# <a href="https://maitreyasuin.github.io/files/CV_Maitreya_Suin.pdf"><b><small>CV</small></b></a>
+theme: jekyll-theme-minimal
+# theme: null
+google_analytics: UA-186692181-1 # your Google Analytics tracking ID here
